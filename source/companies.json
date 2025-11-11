@@ -506,6 +506,11 @@
             "websiteUrl": "https://www.3gpp.org/",
             "description": "The 3GPP Network is a mobile technology standard for bridging core cellular networks with the Internet. Services include enabling WiFi calling, roaming, and signaling."
         },
+		"JawalGames": {
+           "name": "Jawal Games Inc.",
+           "websiteUrl": "https://jawalgames.com",
+           "description": "Jawal Games brings you 200+ top App Store hits — all playable instantly! No downloads, no signups. Just tap, play, and enjoy endless fun right in your browser."
+       },
         "4chan": {
             "name": "4Chan",
             "websiteUrl": "https://www.4chan.org/",
